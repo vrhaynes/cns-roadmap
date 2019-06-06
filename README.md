@@ -13,7 +13,7 @@ Basic learning content and resources for computational neuroscience and neuroinf
 
 | Resource | Institution | Source | Link | Category | Level |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- | :------------------------------------- |
-| Fundamentals of neuroscience | Harvard University | multiple | [HarvardX](https://www.mcb80x.org/map) | short videos series | beginner |
+| Fundamentals of neuroscience | Harvard University | multiple | [HarvardX](https://www.mcb80x.org/map) | short videos | beginner |
 
 
 2. Modeling
