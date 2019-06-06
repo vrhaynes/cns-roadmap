@@ -11,26 +11,26 @@ Basic learning content and resources for computational neuroscience and neuroinf
 
 1. Basic Neuroscience
 
-| Resource | Institution | Origin | Link | Category | Level |
+| Resource | Institution | Source | Link | Category | Level |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- | :------------------------------------- |
-| Fundamentals of neuroscience | Harvard University | HarvardX | https://www.mcb80x.org/map | short videos series | beginner |
+| Fundamentals of neuroscience | Harvard University | multiple | [HarvardX](https://www.mcb80x.org/map) | short videos series | beginner |
 
 
 2. Modeling
 
-| Resource | Institution | Origin | Link | Category | Level |
+| Resource | Institution | Source | Link | Category | Level |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- | :------------------------------------- |
-| Basic mathematics for computational neuroscience | INCF | INCF Training Space | https://training.incf.org/course/basic-mathematics-computational-neuroscience | Lectures | beginner |
-| Computational neuroscience: the basics | INCF | INCF Training Space | https://training.incf.org/course/computational-neuroscience-basics | Lectures | beginner |
-| Introduction to neuroinformatics | INCF | INCF Training Space | https://training.incf.org/course/incf-short-course-introduction-neuroinformatics | Lectures | beginner |
+| Basic mathematics for computational neuroscience | INCF | Alex Williams | [INCF Training Space](https://training.incf.org/course/basic-mathematics-computational-neuroscience) | lectures | beginner |
+| Computational neuroscience: the basics | INCF | multiple | [INCF Training Space](https://training.incf.org/course/computational-neuroscience-basics) | lectures | beginner |
+| Introduction to neuroinformatics | INCF | multiple | [INCF Training Space](https://training.incf.org/course/incf-short-course-introduction-neuroinformatics) | lectures | beginner |
 
 3. Analysis
 
-| Resource | Institution | Origin | Link | Type | Category | Level |
+| Resource | Institution | Source | Link | Type | Category | Level |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------------------------------ | :------------------------------------- | :------------------------------------- |
-| Analysis and interpretation of massively parallel electrophysiological data | INCF | INCF Training Space | https://training.incf.org/course/analysis-and-interpretation-massively-parallel-electrophysiological-data | ephys | Lectures | intermediate |
+| Analysis and interpretation of massively parallel electrophysiological data | INCF | multiple | [INCF Training Space](https://training.incf.org/course/analysis-and-interpretation-massively-parallel-electrophysiological-data) | ephys | lectures | intermediate |
 
 4. Scientific Software
 
-| Resource | Institution | Origin | Link | Category | Level |
+| Resource | Institution | Source | Link | Category | Level |
 | :----------------------------------------------------------- | :------------------------- | :----------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------------- | :------------------------------------- |
