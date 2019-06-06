@@ -3,6 +3,7 @@ Basic learning content and resources for computational neuroscience and neuroinf
 
 
 ## Table of Contents
-1. Modeling
-2. Analysis
-3. Scientific Software
+1. Basic Neuroscience
+2. Modeling
+3. Analysis
+4. Scientific Software
