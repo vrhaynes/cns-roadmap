@@ -1,2 +1,2 @@
-# cns-roadmap
-Essential learning content and resources for computational neuroscience and neuroinformatics
+# Computational Neuroscience Roadmap
+Basic learning content and resources for computational neuroscience and neuroinformatics
